@@ -1,0 +1,26 @@
+多线程 生物 AI
+https://www.curseforge.com/minecraft/mc-mods/threading-entity-mod
+
+新 医疗护理
+https://www.curseforge.com/minecraft/mc-mods/deeper-wounds
+
+像 UT 那样的调整mod
+https://www.curseforge.com/minecraft/mc-mods/ender-modpack-tweaks
+
+CSGO开箱
+https://www.curseforge.com/minecraft/mc-mods/cases
+
+自定义作物
+https://www.curseforge.com/minecraft/mc-mods/owncrops
+
+生物图集
+https://www.curseforge.com/minecraft/mc-mods/universalbestiary
+
+更好的指南针
+https://www.curseforge.com/minecraft/mc-mods/better-compass
+
+获取物品前隐藏JEI
+https://www.curseforge.com/minecraft/mc-mods/found-enough-items
+
+新 药水折叠
+https://www.curseforge.com/minecraft/mc-mods/better-potion-display
