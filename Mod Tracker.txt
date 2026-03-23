@@ -45,3 +45,6 @@ https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks-remove-settings-bu
 
 优化发包
 https://www.curseforge.com/minecraft/mc-mods/zs-packet
+
+杀意感知
+https://www.curseforge.com/minecraft/mc-mods/im-in-danger
