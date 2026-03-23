@@ -43,3 +43,5 @@ https://www.curseforge.com/minecraft/mc-mods/set-bonus
 移除R键整理配置按钮
 https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks-remove-settings-button-config
 
+优化发包
+https://www.curseforge.com/minecraft/mc-mods/zs-packet
