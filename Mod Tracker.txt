@@ -33,3 +33,10 @@ https://www.curseforge.com/minecraft/mc-mods/modclassifier
 
 1122的起源
 https://www.curseforge.com/minecraft/mc-mods/menhir
+
+套装的crt支持
+https://www.curseforge.com/minecraft/mc-mods/ctsetbonus
+
+套装
+https://www.curseforge.com/minecraft/mc-mods/set-bonus
+
