@@ -51,3 +51,6 @@ https://www.curseforge.com/minecraft/mc-mods/im-in-danger
 
 丰富的睡眠机制
 https://www.curseforge.com/minecraft/mc-mods/simplenightmares
+
+背包2x2合成改革
+https://www.curseforge.com/minecraft/mc-mods/primitive-crafting
